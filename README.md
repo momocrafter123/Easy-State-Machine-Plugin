@@ -1,4 +1,4 @@
-# Simple State Machine Plugin
+# Easy State Machine Plugin
 This is a modular, signal-driven state machine for Godot 4.  
 It was designed to manage different states easily with a lot of helpful, prebuilt functions.
 
