@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://do76baym0j6y8"]
+
+[node name="GridContainer" type="GridContainer"]
+offset_right = 40.0
+offset_bottom = 40.0
